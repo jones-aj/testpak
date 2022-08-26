@@ -17,5 +17,5 @@ the square of x
 }
 \examples{
 hello(5)
-should return 25
+#  should return 25
 }
